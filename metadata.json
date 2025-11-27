@@ -1,0 +1,5 @@
+{
+  "name": "Solo Leveling Training",
+  "description": "Um aplicativo de treino gamificado baseado no sistema de Solo Leveling. Ganhe XP, suba de nível e receba treinos personalizados via IA.",
+  "requestFramePermissions": []
+}
